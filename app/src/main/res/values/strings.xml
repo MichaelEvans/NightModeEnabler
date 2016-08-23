@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Night Mode Enabler</string>
+    <string name="enable_message">Enable System UI Tuner in able to use this. (Long press on the gear when the notification shade is down.)</string>
+    <string name="yay">Yay, you should now have a quick toggle for Night Mode available.</string>
+</resources>
